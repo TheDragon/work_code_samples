@@ -1,0 +1,58 @@
+h1=. Ryan Schremp
+
+p=. 2933 Fish Hatchery Rd. apt 120
+Fitchburg, WI 53713
+ryan@brainwor.ms 
+(608) 301-5346
+
+h2. Skills
+
+PHP, MySQL, MSSQL, Ruby, Ruby on Rails, Javascript, Git, SVN, Windows 9x, ME, NT, 2000, XP, Vista, Windows 7, MacOS 7-current, Linux/Unix administration, HTML, CSS, extensive hardware troubleshooting, network troubleshooting and maintenance, laptop repair, desktop repair, training for A+, CCNA, MCSE
+
+h2. Education
+
+*Herzing College* - Madison, WI - September 2005 to May 2006
+Attended classes towards a degree in Interactive and Graphic arts.
+
+h2. Technical Experience 
+
+*Freelance web design*
+_4/2006 - current_
+Specializing in work and consulting in
+* Web presence
+* *LAMP*
+* Server configuration
+
+*Web Programmer* at Capital Newspapers/Madison.com 
+_4/2008 - 11/2009_
+* Created web applications in a *LAMP* environment.
+* Used primarily the popular *Zend MVC* framework.
+* Provided support for the server environment which consisted of 15 RedHat based *Linux* servers.
+* Assisted in forming an upgrade path to bring the servers up to date. 
+* Wrote applications in *Ruby* to streamline upkeep and optimization of old code base.
+* Used Javascript and popular *AJAX* libraries to develop gadgets for a redesign of madison.com.
+* Provided support for local organizations whose sites we hosted such as wisconsinhomes.com.
+* Followed an on-call schedule rotation to provide support for the newsroom after business hours.
+* Took the lead on improving the efficacy of our traffic reporting tool, Omniture.
+* Collected traffic reports each month for presentation to our publishers.
+* Assisted updating the legacy in-house publishing tool.
+* Rewrote critical legacy Java application in *PHP*.
+* Took the lead on implementing a wiki and trouble ticket system to improve departmental communication.
+* Used multiple *SCM*s to communally manage source code.
+* Lead the initiative to set security standards within the department.
+
+*NOC Intern* at Berbee Information Networks 
+_3/2007-4/2008_
+* Assisted clients in racking and cabling their server hardware in the datacenter.
+* Fielded phone calls from internal and external customers for technical support on...
+** Blackberry Enterprise Server
+** Hosted Exchange
+** Hosted Sharepoint
+** Dial-up Internet
+** Shared web hosting
+* Proposed and developed a web application using *PHP*, *MSSQL*, and *MySQL* to streamline client check-ins.
+* Proposed and developed a web application using *PHP*, *MSSQL*, and *MySQL* to display work orders in a calendar format.
+
+h2. Service Experience
+
+Previously held many positions in customer service, technical support and sales with companies such as Sony Computers, CompUSA, and TDS Metrocom.
